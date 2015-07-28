@@ -1,1 +1,2 @@
-# plugin.video.Larcvision
+# Larcvision
+Larcvision Addon
